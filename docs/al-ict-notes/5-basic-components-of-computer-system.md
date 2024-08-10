@@ -78,4 +78,28 @@ Memory is Classified intos 5 types.
 2. secondary memory
 3. Cache memony
 
+#### Primary Memory
+
+Primary memory holds only those data and instructions on which the computer is currently working. It has a limited capacity and data is lost when power is switched off. It is generally made up of semiconductor device.
+
+#### Secondary Memory
+
+This type of memory is also known as external memory or non-volatile. It is slower than the main memory. These are used for storing data/information permanently. CPU does not access these memories directly instead they are accessed via input-output routines. The contents of secondary memories are first transferred to the main memory, and then the CPU can access it.
+
+#### Cache Memory
+
+Cache memory is a small-sized type of volatile computer memory that provides high-speed data storage and access to the processor. Cache memory is used to hold those parts of data and program which are most frequently used by the CPU. It is faster than main memory.
+
+#### Memory Architecture
+
 ![Memory Architectures](img/memory-architecture.png)
+
+#### Comparison of Memory Devices
+
+| Parameter  | Primary Memory     | Secondary Memory        | Cache Memory       |
+| ---------- | ------------------ | ----------------------- | ------------------ |
+| Volatility | Volatile           | Non-Volatile            | Volatile           |
+| Speed      | Fast               | Slow                    | Fast               |
+| Cost       | Expensive          | Cheaper                 | Expensive          |
+| Capacity   | Less               | More                    | Less               |
+| Location   | On the motherboard | Outside the motherboard | On the motherboard |
