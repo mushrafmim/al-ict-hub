@@ -67,3 +67,15 @@ Impact printers use a mechanism to strike an inked ribbon, transferring characte
 ##### Non-Impact Printers
 
 Non-impact printers do not use a striking mechanism. Example: Inkjet Printers, Laser Printers.
+
+### 3. Memory Devices
+
+Memory Devices.
+A memory Is used to store date and instrictione. computer memory is the store Space in the computer system. where dos Is to processed and instructs required for pocessing are stored
+Memory is Classified intos 5 types.
+
+1. Primary memory
+2. secondary memory
+3. Cache memony
+
+![Memory Architectures](img/memory-architecture.png)
