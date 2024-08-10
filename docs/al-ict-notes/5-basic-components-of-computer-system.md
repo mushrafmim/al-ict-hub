@@ -103,3 +103,20 @@ Cache memory is a small-sized type of volatile computer memory that provides hig
 | Cost       | Expensive          | Cheaper                 | Expensive          |
 | Capacity   | Less               | More                    | Less               |
 | Location   | On the motherboard | Outside the motherboard | On the motherboard |
+
+### 4. Processing Devices
+
+Processing devices are used to process data. Mainly there are two types of processing devices identified as Central Processing Unit (CPU) and Graphics Processing Unit (GPU)
+
+#### Central Processing Unit (CPU)
+
+The Central Processing Unit (CPU) is the main processing device in a computer system. The CPU performs the following functions:
+
+- Fetches instructions from memory.
+- Decodes instructions.
+- Executes instructions.
+- Stores results.
+
+#### Graphics Processing Unit (GPU)
+
+A Graphics Processing Unit (GPU) is a specialized electronic circuit designed to accelerate the creation and rendering of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, and game consoles.
